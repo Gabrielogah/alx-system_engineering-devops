@@ -1,2 +1,1 @@
-#!/bin/bash
-yoo
+Display the contents list of your current directory.
