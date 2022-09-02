@@ -1,5 +1,5 @@
-Create a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
+Write a script that changes the working directory to the user’s home directory.
 
 
 
-You can consider that all HTML files have the extension .html
+You are not allowed to use any shell variables
