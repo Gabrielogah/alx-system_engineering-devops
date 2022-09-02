@@ -1,2 +1,1 @@
-#!/bin/bash
-yoo
+-m #!/bin/bash\  2-bring_me_home
