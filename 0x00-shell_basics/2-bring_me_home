@@ -1,4 +1,0 @@
-#!/bin/bash
-cd /root >>  2-bring_me_home
-
-echo cd /root
