@@ -1,1 +1,1 @@
--m #!/bin/bash\  2-bring_me_home
+Move the file betty from /tmp/ to /tmp/my_first_directory clear
