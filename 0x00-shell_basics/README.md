@@ -1,1 +1,1 @@
-Create a script that creates a directory named
+Write a script that changes the working directory to the user’s home directory
